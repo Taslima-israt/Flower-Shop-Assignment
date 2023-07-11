@@ -135,13 +135,13 @@
 .Off {
     color: red;
 }
-.insta {
+.Instagram {
     background: #FFF;
     padding: 100px 240px 100px 240px;
     text-align: center;
     text-align: center;
 }
-.insta-container {
+.Instagram-container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -151,7 +151,7 @@
 
 }
 
-.insta-title {
+.Instagram-title {
     color: #272727;
     text-align: center;
     font-size: 30px;
@@ -159,7 +159,7 @@
     padding-bottom: 0px;
 }
 
-.insta p {
+.Instagram p {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 20px;
